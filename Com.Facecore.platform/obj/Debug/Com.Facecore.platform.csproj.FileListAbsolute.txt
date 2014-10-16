@@ -1,0 +1,14 @@
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform\bin\Debug\Com.Facecore.platform.dll
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform\bin\Debug\Com.Facecore.platform.pdb
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform\bin\Debug\FaceCore.OpenPlatform.DTO.dll
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform\bin\Debug\Newtonsoft.Json.dll
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform\bin\Debug\Newtonsoft.Json.xml
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform\obj\Debug\Com.Facecore.platform.dll
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform\obj\Debug\Com.Facecore.platform.pdb
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform\obj\Debug\Com.Facecore.platform.csprojResolveAssemblyReference.cache
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform\bin\Debug\Com.Facecore.platform.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform\bin\Debug\Com.Facecore.platform.pdb
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform\bin\Debug\Newtonsoft.Json.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform\obj\Debug\Com.Facecore.platform.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform\obj\Debug\Com.Facecore.platform.pdb
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform\obj\Debug\Com.Facecore.platform.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\Interop.WMPLib.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\AxInterop.WMPLib.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.csproj.ResolveComReference.cache
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.csprojResolveAssemblyReference.cache
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.Form1.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.Properties.Resources.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.UcControl.UcCompar.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.UcControl.UcDynamicCom.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.UcControl.UcDynamic.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.UcControl.UcFaceCheck.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.UcControl.UcIndex.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.UcControl.UcVideo.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.UcMenuItem.resources
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\faceView\obj\Release\faceView.csproj.GenerateResource.Cache

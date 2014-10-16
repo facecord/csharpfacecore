@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Facecore.platform", "Com.Facecore.platform\Com.Facecore.platform.csproj", "{BF6B37F3-C2DA-4F78-98A7-C3383D6C93B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faceView", "faceView\faceView.csproj", "{BCEA3C32-DD73-4DEE-ABD3-86CC1DF8A2FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.Facecore.platform.Common", "Com.Facecore.platform.Common\Com.Facecore.platform.Common.csproj", "{3FEF20C0-BE81-4B5B-A5F4-F8D46CD92510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6B37F3-C2DA-4F78-98A7-C3383D6C93B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6B37F3-C2DA-4F78-98A7-C3383D6C93B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6B37F3-C2DA-4F78-98A7-C3383D6C93B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6B37F3-C2DA-4F78-98A7-C3383D6C93B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCEA3C32-DD73-4DEE-ABD3-86CC1DF8A2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEA3C32-DD73-4DEE-ABD3-86CC1DF8A2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEA3C32-DD73-4DEE-ABD3-86CC1DF8A2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCEA3C32-DD73-4DEE-ABD3-86CC1DF8A2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEF20C0-BE81-4B5B-A5F4-F8D46CD92510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEF20C0-BE81-4B5B-A5F4-F8D46CD92510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEF20C0-BE81-4B5B-A5F4-F8D46CD92510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEF20C0-BE81-4B5B-A5F4-F8D46CD92510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\bin\Release\Com.Facecore.platform.Common.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\bin\Release\Com.Facecore.platform.Common.pdb
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Release\Com.Facecore.platform.Common.csprojResolveAssemblyReference.cache
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Release\Com.Facecore.platform.Common.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Release\Com.Facecore.platform.Common.pdb
